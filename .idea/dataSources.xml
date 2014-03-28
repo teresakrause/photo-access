@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="794441735">
+    <data-source source="LOCAL" name="MySQL - PhotAccess@localhost" uuid="0b8de5ed-55ee-451a-b0a6-68e1dfaa015d">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/PhotAccess</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdedfcfdfd8dfcfdfd9dfcb</user-password>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+      </driver-properties>
+      <libraries />
+      <ssh-properties>
+        <enabled>true</enabled>
+        <proxy-host>107.170.117.14</proxy-host>
+        <proxy-port>22</proxy-port>
+        <user>root</user>
+        <use-password>true</use-password>
+        <password>dfdedfcfdfd8dfcfdfd9dfcb</password>
+        <private-key-path />
+        <passphrase />
+      </ssh-properties>
+    </data-source>
+  </component>
+</project>
+
