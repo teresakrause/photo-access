@@ -10,13 +10,13 @@
 #nav .coyote {
     width: 36px;
     height: 40px;
-    background-image: url("images/coyote.png");
+    background-image: url("../images/coyote.png");
     background-repeat: no-repeat;
     background-position: left top;
     background-size: 36px 40px;
 }
 #nav .coyote:hover {
-    background-image: url("images/dragon.png");
+    background-image: url("../images/dragon.png");
 }
 #nav li {
     float: left;

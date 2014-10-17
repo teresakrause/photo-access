@@ -1,9 +1,3 @@
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="header.css">
-</head>
-<body>
-
 <?php
 include_once 'includes/header.php';
 $con = mysqli_connect("localhost", "root", "teresa", "PhotoAccess");
@@ -79,3 +73,5 @@ while ($row = mysqli_fetch_array($result)) {
 
 </body>
 </html>
+
+<?php include_once('includes/footer.php');

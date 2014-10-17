@@ -1,8 +1,4 @@
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="header.css">
-</head>
-<body>
+
 <?php
 include_once 'includes/header.php';
 include 'includes/selectShoot.php';
@@ -52,6 +48,5 @@ Id #: <input type='Integer' name='photo_id'><br>
 <input type="submit" name="submit" value="submit">
 </form>
 
-</body>
-</html>
+<?php include_once('includes/footer.php');
 

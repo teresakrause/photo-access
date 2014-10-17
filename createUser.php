@@ -1,6 +1,5 @@
-<html>
-    <body>
-        <?php
+<?php
+    include_once('includes/header.php');
         if(isset($_POST['submit'])){
             if(empty($_POST['Username'])){
                 echo "Please Enter a Username";
@@ -37,6 +36,6 @@
         }
         else{
             include("includes/userForm.php");
-        } ?>
-    </body>
-</html>
+        }
+include_once('includes/footer.php');
+

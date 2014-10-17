@@ -1,0 +1,24 @@
+#content {
+    border: 5px;
+}
+
+#content a {
+    color: rgb(33, 33, 33);
+}
+
+#content a:hover {
+    color: rgb(0, 0, 0);
+}
+
+#content h1 {
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+}
+
+#content .text_block {
+    background-color: rgb(245,245,245);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
